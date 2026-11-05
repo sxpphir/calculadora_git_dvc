@@ -1,0 +1,17 @@
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Cachés de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+
+# Configuración local de VS Code
+.vscode/
+
+config.txt
