@@ -1,0 +1,8 @@
+stages:
+  resumen:
+    cmd: python -m scripts.procesar
+    deps:
+    - datos/operaciones.csv
+    - scripts/procesar.py
+    outs:
+    - resultados/resumen.csv
