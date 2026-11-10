@@ -1,0 +1,5 @@
+outs:
+- md5: 54055d104661226e60a2909a8221cd2f
+  size: 2590
+  hash: md5
+  path: operaciones.csv
